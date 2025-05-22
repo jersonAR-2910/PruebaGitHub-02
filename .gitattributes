@@ -1,0 +1,12 @@
+# Forcing text files to use Unix-style LF endings
+* text=auto
+
+# Unity binary files (do not modify line endings)
+*.meta text
+*.unity binary
+*.prefab binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.mat binary
+*.shader binary
